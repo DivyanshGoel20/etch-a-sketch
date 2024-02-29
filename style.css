@@ -1,0 +1,15 @@
+.heading {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#grid-size {
+  width: 100px;
+  height: 50px;
+}   
